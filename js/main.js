@@ -83,21 +83,4 @@ $(function() {
     })
 })
 
-// document.addEventListener('DOMContentLoaded', function() {
-//     document.getElementById("administration").addEventListener("mouseover", function (e) {
-//         document.querySelector($('a').parents(e.currentTarget)).classList.add("show");
-//         document.querySelector('.menu.dropdown-menu').classList.add("show");
-//     });
-//     document.getElementById("administration").addEventListener("mouseout", function (e) {
-//         document.querySelector('.expanded.dropdown').classList.remove("show");
-//         document.querySelector('.menu.dropdown-menu').classList.remove("show");
-//     });
-//     document.getElementById("aboutUs").addEventListener("mouseover", function (e) {
-//         document.querySelector('.expanded.dropdown').classList.add("show");
-//         document.querySelector('.menu.dropdown-menu').classList.add("show");
-//     });
-//     document.getElementById("aboutUs").addEventListener("mouseout", function (e) {
-//         document.querySelector('.expanded.dropdown').classList.remove("show");
-//         document.querySelector('.menu.dropdown-menu').classList.remove("show");
-//     });
-// });
+
